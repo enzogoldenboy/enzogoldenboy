@@ -1,4 +1,7 @@
-<img src="aura.gif" width="200" align="left" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="aura.gif" />
+  <img src="assets/light.gif" width="200" align="left" />
+</picture>
 **dev who's liking to do some project (search intern and and a course ig pls**
 🎃 [my website (french for now)](https:/enzolegore.com)
 
