@@ -1,4 +1,4 @@
-<img src="aura.gif" width="200" align="left" />
+<img src="aura.gif" width="200" />
 
 **dev who's liking to do some projects** — search for an internship and a course ig pls 🎃
 
@@ -21,6 +21,6 @@ working on Windows and macOS — please check my work and give me a chance.
 
 ### contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzolgre@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tenzo-legore-974b703a5/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://enzolegore.com)
